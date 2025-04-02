@@ -36,10 +36,11 @@
     {
       "name": "Northmetric Digital",
       "position": "UX Specialist",
-      "url": "",
+      "projectImages": "northmetricdigital_logo.jpg",
+      "url": "https://www.linkedin.com/company/northmetricdigital/about/",
       "startDate": "diciembre 2020",
       "endDate": "enero 2022",
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Startup de marketing digital fundanda por un socio y amigo de la infancia en la que tuve funciones de lo más diversas. Sobretodo relacionadas con la creación de sitios web y trato con los clientes de cara a satisfacer sus necesidades.",
       "highlights": [
         "Started the company"
       ]
@@ -47,10 +48,9 @@
     {
       "name": "BASANTA TAUSIA S.L.",
       "position": "CEO",
-      "url": "",
       "startDate": "octubre 2022",
       "endDate": "febrero 2024",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Empresa de comercio electrónico fundada en solitario en la que pude aplicar parte del conocimiento adquirido en mi primera experiencia profesional.",
       "highlights": [
         "Started the company"
       ]
@@ -58,28 +58,28 @@
     {
       "name": "Cope Cantabria",
       "position": "Operador Técnico de Sonido en Transmisiones Radiales",
+      "url": "https://www.cope.es/emisoras/cantabria/cantabria-provincia/santander",
       "startDate": "agosto 2024",
       "endDate": null,
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Enfocado sobre todo en retransmisiones deportivas.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Consort music S.L",
+      "position": "Técnico de montaje y producción de eventos",
+      "startDate": "febrero 2015",
+      "endDate": null,
+      "summary": "Empresa local dedicada a la producción de eventos que confiaron en mi con solo diecisiete años y sin experiencia para iniaiarme en el setor del entretenimiento. He desempeñado infinidad de diferentes tareas con ellos.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Consort Music S.L.",
-    "position": "Técnico de montaje y producción de eventos",
-    "url": "https://organization.com/",
-    "startDate": "febrero 2015 ",
-    "endDate": null,
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
     "institution": "Centro de formación profesional Decroly", 
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "url": "",
     "area": "Técnico en sistemas informáticos y redes",
     "studyType": "Bachelor",
     "startDate": "Septiembre 2016",
@@ -88,7 +88,16 @@
     "courses": [
       "DB1101 - Basic SQL"
     ]
+  },
+  {
+    "institution": "Institución de Educación Superior Augusto Linares", 
+    "url": "",
+    "area": "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma",
+    "studyType": "Tipo de estudio",
+    "startDate": "Septiembre 2018",
+    "endDate": "Julio 2020"
   }],
+  
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
