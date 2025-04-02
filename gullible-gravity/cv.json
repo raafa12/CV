@@ -50,7 +50,7 @@
       "position": "CEO",
       "startDate": "octubre 2022",
       "endDate": "febrero 2024",
-      "summary": "Empresa de comercio electrónico fundada en solitario en la que pude aplicar parte del conocimiento adquirido en mi primera experiencia profesional.",
+      "summary": "Empresa enfocada en el comercio electrónico. Fundada en solitario me sirvió para iniciarme en el mundo del emprendimiento y poder aplicar los conocimientos adquiridos en mi primera experiencia profesional.",
       "highlights": [
         "Started the company"
       ]
@@ -71,7 +71,7 @@
       "position": "Técnico de montaje y producción de eventos",
       "startDate": "febrero 2015",
       "endDate": null,
-      "summary": "Empresa local dedicada a la producción de eventos que confiaron en mi con solo diecisiete años y sin experiencia para iniaiarme en el setor del entretenimiento. He desempeñado infinidad de diferentes tareas con ellos.",
+      "summary": "Empresa local dedicada a la producción de eventos. Con solo diecisiete años y sin experiencia previa confiaron en mis capacidades y me iniciaron en el sector del entretenimiento. He desempeñado infinidad de diferentes tareas con ellos.",
       "highlights": [
         "Started the company"
       ]
@@ -140,20 +140,6 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -161,10 +147,10 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
@@ -182,17 +168,10 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     }
   ],
