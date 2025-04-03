@@ -4,7 +4,7 @@
 
 ## 👋 Bienvenido a mi Portfolio
 
-Este repositorio aloja el código fuente de mi página web personal, donde puedes conocer más sobre mí, mis proyectos y mi trayectoria profesional como desarrollador Full Stack.
+Este repositorio aloja el código fuente de mi página web personal, donde puedes conocer más sobre mí, mis proyectos y mi trayectoria profesional.
 
 ## 🚀 [Visita mi Portfolio Web](https://67ed6dc87f41be9a0f621ead--tourmaline-sunshine-2aa86b.netlify.app/)
 
